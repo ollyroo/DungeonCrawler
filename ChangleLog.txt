@@ -1,0 +1,54 @@
+17/05/13
+- Added movement across map, updating screen is inefficient, needs change
+
+18/05/13
+ - Movement across map, yet to add collision
+
+19/05/13
+ - collision added, slightly buggy, see bugs
+
+20/05/13
+ - Made background Colour
+ - Updated full screen, for less visual bugs
+ 
+22/05/13
+ - Made toggleable inventory screen
+
+22/5/13 8:16PM
+ - Added Trolling Sound by Olly who somehow got on the dropbox *Stares at person responsible* #BEN  #YOLOSWAG
+
+24/5/13
+  - Made arrow keys compatible becuase olly was complaining
+  - Best update
+
+28/05/13
+  - added pause code
+ 
+30/05/13
+ - Added Menu screen
+
+
+1/6/13
+ - Changed a whole load of stuff including the begining of enimies and muscic implamentation
+
+31/05/13
+ - added saving coordinates & load game
+ - new game working
+
+1/06/13
+ - Minimap magic!
+
+2/06/13
+ - No collision bugs
+
+2/06/13
+ - Pause menu finished
+ 
+ 8/06/13
+ - Added Health
+ - Added Mana
+ - Merged Inventory and Character Modules together
+ - Renamed Character to Player
+ - Use GRAVE to use function in console
+	- bar.modify('health/mana', 'add/subtract', value)
+	

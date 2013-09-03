@@ -1,0 +1,7 @@
+Bugs:
+1
+the map
+collision
+
+Fixed:
+the minimap

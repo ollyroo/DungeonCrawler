@@ -1,0 +1,4 @@
+- Add more playable characters
+- Add enemies
+	- Add AI
+- Make map better
